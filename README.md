@@ -1,6 +1,10 @@
 <h1 align="center">Vinkstandard</h1>
 
 <p align="center">
+Backend-focused developer | App creation & MySQL-powered data handling.
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinkstandard&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkstandard&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
