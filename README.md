@@ -1,7 +1,8 @@
 <h1 align="center">Vinkstandard</h1>
 
 <p align="center">
-Backend-focused developer | App creation & MySQL-powered data handling.
+Backend-focused developer | Skilled in Java, MySQL, Spring, and some CSS.
+
 </p>
 
 <p align="center">
