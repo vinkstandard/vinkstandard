@@ -1,7 +1,7 @@
 <h1 align="center">Vinkstandard</h1>
 
 <p align="center">
-Backend developer experienced in Spring, API REST, MySQL, Java, and CSS basics.
+Backend developer experienced in Java, Spring, API REST, MySQL, HTML and CSS.
 
 </p>
 
