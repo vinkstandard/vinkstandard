@@ -6,9 +6,9 @@ Backend developer experienced in Java, Spring, API REST, MySQL, HTML and CSS.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinkstandard&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&custom_title=GitHub+Stats" width="46.5%" style="vertical-align: top;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinkstandard&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&custom_title=GitHub+Stats**&v=2**" width="46.5%" style="vertical-align: top;"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkstandard&layout=compact&theme=tokyonight&langs_count=4&cache_seconds=7200" width="41.5%" style="vertical-align: top; padding-top: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkstandard&layout=compact&theme=tokyonight&langs_count=4&cache_seconds=7200**&v=2**" width="41.5%" style="vertical-align: top; padding-top: 10px;"/>
 </p>
 
 ---
