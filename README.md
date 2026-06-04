@@ -2,6 +2,7 @@
 
 <p align="center">
 Backend developer experienced in Java, Spring, API REST, MySQL, HTML and CSS.
+Currently studying C# and Unity
 
 </p>
 
